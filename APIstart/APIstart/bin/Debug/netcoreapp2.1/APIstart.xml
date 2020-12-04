@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIstart</name>
+    </assembly>
+    <members>
+        <member name="M:APIstart.Controllers.PostController.Get">
+            <summary>
+            Get All Posts
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APIstart.Controllers.PostController.Get(System.Int32)">
+            <summary>
+            Get Post from Id
+            </summary>
+            <param name="id">for post</param>
+            <returns></returns>
+        </member>
+        <member name="M:APIstart.Controllers.PostController.Post(APIstart.Models.Post)">
+            <summary>
+            Create new Post
+            </summary>
+            <param name="post"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIstart.Controllers.PostController.Put(System.Int32,APIstart.Models.Post)">
+            <summary>
+            Update Post
+            </summary>
+            <param name="id"></param>
+            <param name="post"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APIstart.Controllers.PostController.Delete(System.Int32)">
+            <summary>
+            Delete Post
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

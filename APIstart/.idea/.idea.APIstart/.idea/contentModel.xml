@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_APIstart.2021961004.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\my projects\ASP\APIstart" t="IncludeFlat">
+      <e p="APIstart" t="IncludeRecursive">
+        <e p="APIstart.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="BookController.cs" t="Include" />
+          <e p="PatientController.cs" t="Include" />
+          <e p="PostController.cs" t="Include" />
+          <e p="ProductController.cs" t="Include" />
+          <e p="StudentController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="DAL" t="Include">
+          <e p="AppDbContext.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201002084803_AddPost.cs" t="Include" />
+          <e p="20201002084803_AddPost.Designer.cs" t="Include" />
+          <e p="20201002192517_AddCategoryProductTables.cs" t="Include" />
+          <e p="20201002192517_AddCategoryProductTables.Designer.cs" t="Include" />
+          <e p="20201007123622_StudentCourse.cs" t="Include" />
+          <e p="20201007123622_StudentCourse.Designer.cs" t="Include" />
+          <e p="20201020193154_AddDoctorPatient.cs" t="Include" />
+          <e p="20201020193154_AddDoctorPatient.Designer.cs" t="Include" />
+          <e p="20201204174156_addedApistart.cs" t="Include" />
+          <e p="20201204174156_addedApistart.Designer.cs" t="Include" />
+          <e p="AppDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Book.cs" t="Include" />
+          <e p="Category.cs" t="Include" />
+          <e p="Course.cs" t="Include" />
+          <e p="Doctor.cs" t="Include" />
+          <e p="Genre.cs" t="Include" />
+          <e p="GenreBook.cs" t="Include" />
+          <e p="Patient.cs" t="Include" />
+          <e p="PatientDoctor.cs" t="Include" />
+          <e p="Post.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+          <e p="StudentCourse.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="APIstart.AssemblyInfo.cs" t="Include" />
+              <e p="APIstart.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="BookDto.cs" t="Include" />
+          <e p="BookVM.cs" t="Include" />
+          <e p="ProductDto.cs" t="Include" />
+          <e p="ProductUpdateVM.cs" t="Include" />
+          <e p="StudentDto.cs" t="Include" />
+        </e>
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="APIstart.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.deps.json
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.runtimeconfig.json
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.runtimeconfig.dev.json
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.dll
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.pdb
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.csprojAssemblyReference.cache
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.AssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.dll
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.pdb
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.genruntimeconfig.cache
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.xml
+C:\Users\User\Desktop\visual studio me\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.deps.json
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.runtimeconfig.json
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.runtimeconfig.dev.json
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.dll
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.pdb
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\bin\Debug\netcoreapp2.1\APIstart.xml
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.csprojAssemblyReference.cache
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.AssemblyInfo.cs
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.dll
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.pdb
+C:\Users\User\Desktop\my projects\ASP\APIstart\APIstart\obj\Debug\netcoreapp2.1\APIstart.genruntimeconfig.cache
